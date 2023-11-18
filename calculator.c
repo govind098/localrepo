@@ -7,9 +7,6 @@ int main(){
     scanf("%d",&b);
     
     printf("addition of your number is %d\n"a+b);
-    printf("subtraction of your number is %d\n"a-b);
-    printf("multiplication of your number is %d\n"a*b);
-    printf("division of your number is %d\n"a/b);
-
+   
     
 }
